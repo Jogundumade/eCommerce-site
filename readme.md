@@ -5,8 +5,8 @@ Open phpmyadmin
 Create Database named “shop”.
 Import database shop.sql.
 Open Your browser put inside URL:
-“http://localhost/store/”
-To Login as admin put inside URL:”http://localhost/store”
+“localhost/store/”
+To Login as admin put inside URL:”localhost/store”
 
 Step 2
 Clear Cache using the command 
